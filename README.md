@@ -1,1 +1,1 @@
-# seckill-project
+# seckill
